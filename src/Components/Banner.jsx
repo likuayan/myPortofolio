@@ -13,7 +13,7 @@ const Banner = () => {
         <div data-aos="fade-up" className="lg:px-56 px-10 lg:py-0 py-20 text-center gap-5 lg:text-start flex lg:flex-row flex-col-reverse justify-between lg:gap-28 items-center">
             <div className="h-full lg:py-40 flex flex-col justify-center lg:items-start items-center text-white">
                 <h1 data-aos="fade-right" className="text-[52px] font-semibold mb-8 leading-normal uppercase">Welcome To <span className="text-fuchsia-500">My Website</span></h1>
-                <p data-aos="fade-left">Lorem ipsum</p>
+                <p data-aos="fade-left">I am a Computer Science student specializing in Information Systems from Indonesia, equipped with a solid foundation in business analysis, system design, programming, and project management, driven by a passion for contributing to the advancement of information technology in my home country and beyond.</p>
                 <div className="flex mt-8 gap-2">
                     <div className="flex items-center justify-center">
                         <div className="flex space-x-2">
